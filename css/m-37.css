@@ -16,8 +16,15 @@
   color: #1A1E2B;
   font-size: 16px;
   font-weight: 700;
+}
+
+.f-content .p-billing{
+  color: #1A1E2B;
+  font-size: 16px;
+  font-weight: 700;
   margin: 0 16px;
 }
+
 
 .f-content .p-cvv{
   color: #1A1E2B;
@@ -49,7 +56,7 @@
   font-size: 16px;
   font-weight: 400;
   color: #1A1E2B;
-  margin: 16px 16px;
+  /* margin: 16px 16px; */
 
 }
 
@@ -139,14 +146,13 @@
     box-shadow: 0 2px 4px 0 #00000012;
     color: #fff;
     border: none;
-    border-radius: 24px;
-    padding: 16px 120px 15px 120px;
+    border-radius: 24px !important;
+    padding: 16px 120px 15px 120px !important;
     font-size: 12px;
     font-weight: 700;
-    margin-left: 16px;
-    margin-right: 16px;
+    
     letter-spacing: 2px;
-    width: 320px !important;
+    /* width: 320px !important; */
   }
   
 
